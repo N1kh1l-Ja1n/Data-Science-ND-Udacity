@@ -1,2 +1,8 @@
-# Data-Science-ND-Udacity
-All projects and notes related to My Nanodegree on Data Science from Udacity
+# Data-Science-ND-Udacity-Repository
+
+## Description:
+
+Notes, Projects and Certificates related to my nanodegree program on Data Science from udacity
+
+[Course link](https://eu.udacity.com/course/data-scientist-nanodegree--nd025) 
+
