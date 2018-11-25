@@ -1,1 +1,9 @@
-
+The first thing which comes to mind when I think about neural networks is perceptron. What is perceptron?
+Perceptron is a linear classifier and it helps to classify the given input data. Perceptron is a single layer NN. 
+It consists of four parts:
+ - input values or one input layer
+ - Weights and Sum
+ - Net Sum
+ - Activation function
+ 
+ 
