@@ -1,4 +1,4 @@
-keras -- package to build neural network..
+keras -- package to build neural network..Keras make coding deep neura network simple.
 
 Keras.model.sequential class is a wrapper for the neural network model that treats the network as a sequence of layers. It implements 
 keras model interface with common method like compile(), fit(), and evaluate() that are used to train and run the model.
